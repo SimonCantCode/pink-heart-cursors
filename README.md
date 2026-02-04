@@ -4,6 +4,7 @@ Cute and pink cursor theme for linux, with small pink hearts!!!! <3
 Perfect for your femboy ahh linux rice lol
 
 ![](preview.png)
+
 (more cursors have been added since this screenshot was taken)
 
 ## Installation
