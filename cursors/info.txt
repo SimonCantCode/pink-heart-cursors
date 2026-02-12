@@ -1,0 +1,4 @@
+the following cursers were added without solving its original problem but doesnt hurt to keep:
+right_side
+top_left_corner
+bottom_right_corner
