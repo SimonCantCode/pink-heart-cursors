@@ -20,4 +20,5 @@ You can also copy it to a file and run as a script.
 ## Credit
 * raw3xd for the original windows only cursor pack available [here](https://www.rw-designer.com/cursor-set/fgtasb-pink-hearts).
 * The [win2xcur](https://github.com/quantum5/win2xcur) tool used to convert the cursors to a format Linux can recognize.
+* The pen cursor from [this](https://www.rw-designer.com/cursor-set/kawaiiairplanepp-mimidestino) cursor theme.
 * Basic instructions on how to make a cursor theme for Linux [here](https://develop.kde.org/docs/features/cursor/).
