@@ -1,3 +1,5 @@
+pinkheart_unavailable_STILL.xmc is the non animated version of the unavailible cursor. if u want te animated one, its located in the optional folder
+
 the following cursers were added without solving its original problem but doesnt hurt to keep:
 right_side
 top_left_corner
